@@ -5,6 +5,9 @@ An impromptu project for PKKMB STIKI
 # Sample Design 
 ![alt text](https://raw.githubusercontent.com/yanmastra/stikigottallent/master/sample_design.png?raw=true)
 
+# Result 
+[![Watch the video](https://raw.githubusercontent.com/yanmastra/stikigottallent/master/Screen%20Shot%202021-09-15%20at%2000.21.32.png)](https://raw.githubusercontent.com/yanmastra/stikigottallent/master/result.mov)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
