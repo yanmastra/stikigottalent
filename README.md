@@ -1,6 +1,9 @@
 # stiki_got_tallent
 
-A new Flutter project.
+An impromptu project for PKKMB STIKI 
+
+# Sample Design 
+![alt text](https://raw.githubusercontent.com/yanmastra/stikigottallent/master/sample_design.png?raw=true)
 
 ## Getting Started
 
